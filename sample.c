@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <sttring.h>
+#include <string.h>
 
 #define BUFSIZE 256
 
